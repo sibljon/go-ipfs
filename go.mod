@@ -27,11 +27,11 @@ require (
 	github.com/ipfs/go-ds-measure v0.1.0
 	github.com/ipfs/go-filestore v0.0.3
 	github.com/ipfs/go-fs-lock v0.0.3
-	github.com/ipfs/go-ipfs-blockstore v0.1.1
+	github.com/ipfs/go-ipfs-blockstore v0.1.2-0.20200107182344-e0992be5aac7
 	github.com/ipfs/go-ipfs-chunker v0.0.3
 	github.com/ipfs/go-ipfs-cmds v0.1.1
 	github.com/ipfs/go-ipfs-config v0.2.0
-	github.com/ipfs/go-ipfs-ds-help v0.0.1
+	github.com/ipfs/go-ipfs-ds-help v0.0.2-0.20200107180048-11890cc86e62
 	github.com/ipfs/go-ipfs-exchange-interface v0.0.1
 	github.com/ipfs/go-ipfs-exchange-offline v0.0.1
 	github.com/ipfs/go-ipfs-files v0.0.6
@@ -64,8 +64,8 @@ require (
 	github.com/libp2p/go-libp2p-core v0.3.0
 	github.com/libp2p/go-libp2p-discovery v0.2.0
 	github.com/libp2p/go-libp2p-http v0.1.4
-	github.com/libp2p/go-libp2p-kad-dht v0.4.1
-	github.com/libp2p/go-libp2p-kbucket v0.2.2
+	github.com/libp2p/go-libp2p-kad-dht v0.5.0
+	github.com/libp2p/go-libp2p-kbucket v0.2.3
 	github.com/libp2p/go-libp2p-loggables v0.1.0
 	github.com/libp2p/go-libp2p-mplex v0.2.1
 	github.com/libp2p/go-libp2p-peerstore v0.1.4
